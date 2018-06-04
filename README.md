@@ -1,7 +1,9 @@
 # ATtiny I2C FRAM Driver
 
 [This driver is for the Adafruit I2C FRAM breakout.](http://www.adafruit.com/products/1895)
+
 [Modified from the original Adafruit FRAM I2C library.](https://github.com/adafruit/Adafruit_FRAM_I2C)
+
 [TinywireM is required.](https://github.com/adafruit/TinyWireM)
 
 ## Modifications
