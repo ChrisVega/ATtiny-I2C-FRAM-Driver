@@ -13,3 +13,5 @@ The original library from Adafruit did not support the Attiny due to it's use of
 Tested using the Attiny85.
 
 pin #0 is SDA (I2C data), pin #2 is SCK (I2C clock).
+
+Dont forget your pull up resistors! 4.7k on SDA and SCK.
